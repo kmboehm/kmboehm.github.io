@@ -88,15 +88,6 @@ education:
       university: Yale University
       time: 2015
       details: |
-experiences:
-    - role: Resident Physician (Radiation Oncology)
-      time: 2023 - 2027
-      company: Memorial Sloan Kettering Cancer Center
-      details: |
-    - role: Resident Physician (Transitional Year)
-      time: 2022 - 2023
-      company: Memorial Sloan Kettering Cancer Center
-      details: |
 projects:
     title: Selected Past Projects
     intro: |
@@ -111,12 +102,28 @@ projects:
      
 publications:
     title: Selected Publications
-    intro: A full list of publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
+    intro: > 
+      A full list of publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
     papers:
       - title: Harnessing multimodal data integration to advance precision oncology
         link: "https://www.nature.com/articles/s41568-021-00408-3"
         authors: KM Boehm, P Khosravi, R Vanguri, J Gao, SP Shah
-        conference: "Nat. Rev. Can."
+        conference: "Nature Reviews Cancer, 2022"
+#       - title: Multimodal data integration using machine learning improves risk stratification of high-grade serous ovarian cancer
+#         link: "#"
+#         authors: KM Boehm, EA Aherne, L Ellenson, I Nikolovski, M Alghamdi, I Vázquez-García, D Zamarin, KL Roche, Y Liu, D Patel, A Aukerman, A Pasha, D Rose, P Selenica, PI Causa Andrieu, C Fong, M Capanu, JS Reis-Filho, R Vanguri, H Veeraraghavan, N Gangai, R Sosa, S Leung, A McPherson, J Gao, Y Lakhman, SP Shah
+#         conference: "Nature Cancer, 2022"
+        - 
+
+experiences:
+    - role: Resident Physician (Radiation Oncology)
+      time: 2023 - 2027
+      company: Memorial Sloan Kettering Cancer Center
+      details: |
+    - role: Resident Physician (Transitional Year)
+      time: 2022 - 2023
+      company: Memorial Sloan Kettering Cancer Center
+      details: |
 
 #skills:
 #    title: Skills &amp; Proficiency
