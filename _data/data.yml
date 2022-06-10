@@ -103,23 +103,20 @@ projects:
     assignments:
       - title: OncoFusion
         link: "https://github.com/kmboehm/onco-fusion"
-        tagline: "OncoFusion extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival. Repository to accompany Multimodal data integration using machine learning improves risk stratification of high-grade serous ovarian cancer (in press)."
+        tagline: "extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival."
       - title: ForestMHC
         link: "https://github.com/kmboehm/ForestMHC"
-        tagline: "ForestMHC prioritizes peptides likely to be bound by specific alleles of MHC-I, enabling focused wetlab screens toward identifying neoantigens and studying the immunopeptidome at large."
+        tagline: "prioritizes peptides likely to be bound by specific alleles of MHC-I, enabling focused wetlab screens toward identifying neoantigens and studying the immunopeptidome at large."
 
-#      
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+     
+publications:
+    title: Selected Publications
+    intro: A full list of publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
+    papers:
+      - title: Harnessing multimodal data integration to advance precision oncology
+        link: "https://www.nature.com/articles/s41568-021-00408-3"
+        authors: KM Boehm, P Khosravi, R Vanguri, J Gao, SP Shah
+        conference: "Nat. Rev. Can."
 
 #skills:
 #    title: Skills &amp; Proficiency
