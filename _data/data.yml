@@ -102,12 +102,13 @@ projects:
     assignments:
       - title: OncoFusion
         link: "https://github.com/kmboehm/onco-fusion"
-        tagline: "extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival."
+        tagline: | extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival.
+                 read more about it [here](google.com).
       - title: ForestMHC
         link: "https://github.com/kmboehm/ForestMHC"
         tagline: "prioritizes peptides likely to be bound by specific alleles of MHC-I, enabling focused wetlab screens toward identifying neoantigens and studying the immunopeptidome at large."
 publications:
-    title: Selected Publications
+    title: Selected Past Projects
     intro: > 
       A full list of publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
     papers:
@@ -122,7 +123,6 @@ publications:
       - title: Multimodal integration of radiology, pathology, and genomics for prediction of response to PD-L1 blockade in patients with non-small cell lung cancer
         link: "#"
         authors: R Vanguri et al
-        details: Test
       - title: Luna Pathology: An integrated open source platform for computational pathology research
         link: "https://github.com/msk-mind-apps/luna-pathology"
         authors: A Aukerman, D Rose, D Patel, A Pasha, A Kohli, I Vázquez-García, K Boehm, R Vanguri, M Shabet, V Mancoridis, E Zakszewski, B Gross, L Geneslaw, C Fong, P Khosravi, J Gao, SP Shah
