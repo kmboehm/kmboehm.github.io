@@ -3,18 +3,18 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Kevin Boehm
-    tagline: Resident physician developing AI for clinical oncology
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Resident physician working on machine learning for oncology 
+    avatar: profile.png 
 
     # Sidebar links
     email: boehmk [at] mskcc [dot] org
     phone:
-    citizenship: USA
+    citizenship:
     website: 
     linkedin: kevinmboehm
     xing: 
@@ -64,14 +64,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Bio 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Kevin Boehm is a resident physician at Memorial Sloan Kettering Cancer Center, where he is completing the [Transitional Year Internship](https://www.mskcc.org/hcp-education-training/residencies/medicine-transitional-year-internship) followed by the [Radiation Oncology Residency](https://www.mskcc.org/departments/radiation-oncology/residency/residents-fellows).
+
+      Recently, he received his MD and PhD from the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), where he completed his dissertation research in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via the [MSK-MIND](https://componcmsk.org/msk-mind/) Programmatic Initiative.
+
+      His goal is to advance our understanding and management of cancer by using machine learning to harness data generated during clinical care. 
+
 education:
     - degree: MD
       university: Cornell University
@@ -80,94 +80,52 @@ education:
           - Bullet point
           - Bullet point
     - degree: PhD, Computational Oncology
-      university: Memorial Sloan Kettering
+      university: Memorial Sloan Kettering 
       time: 2021
       details: |
-          - Bullet point
-          - Bullet point
+          - 'Dissertation: Multimodal Models to Stratify Ovarian Cancer Patients'
     - degree: BS, Biomedical Engineering
       university: Yale University
       time: 2015
       details: |
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Resident Physician
-      time: 2022 - 2027
-      company: Memorial Sloan Kettering
-      details: Radiation Oncology Residency following Transitional Year Internship.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Resident Physician (Radiation Oncology)
+      time: 2023 - 2027
+      company: Memorial Sloan Kettering Cancer Center
+      details: |
+    - role: Resident Physician (Transitional Year)
+      time: 2022 - 2023
+      company: Memorial Sloan Kettering Cancer Center
+      details: |
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
