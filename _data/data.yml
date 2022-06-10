@@ -71,7 +71,15 @@ career-profile:
       Recently, he received his MD and PhD from the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), where he completed his dissertation research in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via the [MSK-MIND](https://componcmsk.org/msk-mind/) Programmatic Initiative.
 
       His goal is to advance our understanding and management of cancer by using machine learning to harness data generated during clinical care. 
-
+experiences:
+    - role: Resident Physician (Radiation Oncology)
+      time: 2023 - 2027
+      company: Memorial Sloan Kettering Cancer Center
+      details: |
+    - role: Resident Physician (Transitional Year)
+      time: 2022 - 2023
+      company: Memorial Sloan Kettering Cancer Center
+      details: |
 education:
     - degree: MD
       university: Cornell University
@@ -98,8 +106,6 @@ projects:
       - title: ForestMHC
         link: "https://github.com/kmboehm/ForestMHC"
         tagline: "prioritizes peptides likely to be bound by specific alleles of MHC-I, enabling focused wetlab screens toward identifying neoantigens and studying the immunopeptidome at large."
-
-     
 publications:
     title: Selected Publications
     intro: > 
@@ -117,17 +123,7 @@ publications:
         link: "https://github.com/msk-mind-apps/luna-pathology"
         authors: A Aukerman, D Rose, D Patel, A Pasha, A Kohli, I Vázquez-García, K Boehm, R Vanguri, M Shabet, V Mancoridis, E Zakszewski, B Gross, L Geneslaw, C Fong, P Khosravi, J Gao, SP Shah
         conference: "AACR 2022"
-      
-experiences:
-    - role: Resident Physician (Radiation Oncology)
-      time: 2023 - 2027
-      company: Memorial Sloan Kettering Cancer Center
-      details: |
-    - role: Resident Physician (Transitional Year)
-      time: 2022 - 2023
-      company: Memorial Sloan Kettering Cancer Center
-      details: |
-
+     
 #skills:
 #    title: Skills &amp; Proficiency
 #
