@@ -97,17 +97,18 @@ experiences:
       time: 2022 - 2023
       company: Memorial Sloan Kettering Cancer Center
       details: |
-#projects:
-#    title: Projects
+projects:
+    title: Selected Past Projects
 #    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
+   assignments:
+     - title: OncoFusion
+       link: "https://github.com/kmboehm/onco-fusion"
+       tagline: "OncoFusion extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival. Repository to accompany Multimodal data integration using machine learning improves risk stratification of high-grade serous ovarian cancer (in press)."
+     - title: ForestMHC
+       link: "https://github.com/kmboehm/ForestMHC"
+       tagline: "ForestMHC prioritizes peptides likely to be bound by specific alleles of MHC-I, enabling focused wetlab screens toward identifying neoantigens and studying the immunopeptidome at large."
+
+#      
 #publications:
 #    title: Publications
 #    intro: |
