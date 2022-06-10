@@ -140,15 +140,6 @@ publications:
         link: "https://link.springer.com/article/10.1245/s10434-019-07908-5"
         authors: KM Boehm, J Chen, S Trichter, H Abdallah, R Zhuo, EJ Nowak, J Ng, AJ Swistel
         conference: "Annals of Surgical Oncology, 2020"
-publications:
-    title: Selected Works2
-    intro: > 
-      Each work generally falls into one of three categories: multimodal machine learning for clinical oncology, clinical analyses, and quantitative biological applications. A full list of resultant publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
-    papers:
-      - title: Harnessing multimodal data integration to advance precision oncology
-        link: "https://www.nature.com/articles/s41568-021-00408-3"
-        authors: KM Boehm, P Khosravi, R Vanguri, J Gao, SP Shah
-        conference: "Nature Reviews Cancer, 2022"
 
 #skills:
 #    title: Skills &amp; Proficiency
