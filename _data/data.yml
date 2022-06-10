@@ -102,8 +102,9 @@ projects:
     assignments:
       - title: OncoFusion
         link: "https://github.com/kmboehm/onco-fusion"
-        tagline: | extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival.
-                 read more about it [here](google.com).
+        tagline: |
+          extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival.
+          read more about it [here](google.com).
       - title: ForestMHC
         link: "https://github.com/kmboehm/ForestMHC"
         tagline: "prioritizes peptides likely to be bound by specific alleles of MHC-I, enabling focused wetlab screens toward identifying neoantigens and studying the immunopeptidome at large."
