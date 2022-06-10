@@ -124,7 +124,7 @@ publications:
       - title: Multimodal integration of radiology, pathology, and genomics for prediction of response to PD-L1 blockade in patients with non-small cell lung cancer
         link: "#"
         authors: R Vanguri et al
-      - title: Luna Pathology: An integrated open source platform for computational pathology research
+      - title: "Luna Pathology: An integrated open source platform for computational pathology research"
         link: "https://github.com/msk-mind-apps/luna-pathology"
         authors: A Aukerman, D Rose, D Patel, A Pasha, A Kohli, I Vázquez-García, K Boehm, R Vanguri, M Shabet, V Mancoridis, E Zakszewski, B Gross, L Geneslaw, C Fong, P Khosravi, J Gao, SP Shah
         conference: "American Association of Cancer Research, 2022 Annual Meeting"
