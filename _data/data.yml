@@ -141,7 +141,7 @@ publications:
         authors: KM Boehm, J Chen, S Trichter, H Abdallah, R Zhuo, EJ Nowak, J Ng, AJ Swistel
         conference: "Annals of Surgical Oncology, 2020"
 publications:
-    title: Selected Works
+    title: Selected Works2
     intro: > 
       Each work generally falls into one of three categories: multimodal machine learning for clinical oncology, clinical analyses, and quantitative biological applications. A full list of resultant publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
     papers:
