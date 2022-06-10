@@ -96,22 +96,22 @@ education:
       university: Yale University
       time: 2015
       details: |
-projects:
-    title: Selected Past Projects
-    intro: |
-    assignments:
-      - title: OncoFusion
-        link: "https://github.com/kmboehm/onco-fusion"
-        tagline: |
-          extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival.
-          read more about it [here](google.com).
-      - title: ForestMHC
-        link: "https://github.com/kmboehm/ForestMHC"
-        tagline: "prioritizes peptides likely to be bound by specific alleles of MHC-I, enabling focused wetlab screens toward identifying neoantigens and studying the immunopeptidome at large."
+# projects:
+#     title: Selected Past Projects
+#     intro: |
+#     assignments:
+#       - title: OncoFusion
+#         link: "https://github.com/kmboehm/onco-fusion"
+#         tagline: |
+#           extracts features from histopathologic whole-slide images, contrast-enhanced computed tomography, targeted sequencing panels, and clinical covariates and subsequently integrates them using a late-fusion machine learning model to stratify patients by overall survival.
+#           read more about it [here](google.com).
+#       - title: ForestMHC
+#         link: "https://github.com/kmboehm/ForestMHC"
+#         tagline: "prioritizes peptides likely to be bound by specific alleles of MHC-I, enabling focused wetlab screens toward identifying neoantigens and studying the immunopeptidome at large."
 publications:
-    title: Selected Past Projects
+    title: Selected Works
     intro: > 
-      A full list of publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
+      Each work generally falls into one of three categories: multimodal machine learning for clinical oncology, clinical analyses, and quantitative biological applications. A full list of resultant publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
     papers:
       - title: Harnessing multimodal data integration to advance precision oncology
         link: "https://www.nature.com/articles/s41568-021-00408-3"
@@ -121,14 +121,35 @@ publications:
 #         link: "#"
 #         authors: KM Boehm, EA Aherne, L Ellenson, I Nikolovski, M Alghamdi, I Vázquez-García, D Zamarin, KL Roche, Y Liu, D Patel, A Aukerman, A Pasha, D Rose, P Selenica, PI Causa Andrieu, C Fong, M Capanu, JS Reis-Filho, R Vanguri, H Veeraraghavan, N Gangai, R Sosa, S Leung, A McPherson, J Gao, Y Lakhman, SP Shah
 #         conference: "Nature Cancer, 2022"
-      - title: Multimodal integration of radiology, pathology, and genomics for prediction of response to PD-L1 blockade in patients with non-small cell lung cancer
-        link: "#"
-        authors: R Vanguri et al
+#       - title: Multimodal integration of radiology, pathology, and genomics for prediction of response to PD-L1 blockade in patients with non-small cell lung cancer
+#         link: "#"
+#         authors: R Vanguri et al.
       - title: "Luna Pathology: An integrated open source platform for computational pathology research"
         link: "https://github.com/msk-mind-apps/luna-pathology"
         authors: A Aukerman, D Rose, D Patel, A Pasha, A Kohli, I Vázquez-García, K Boehm, R Vanguri, M Shabet, V Mancoridis, E Zakszewski, B Gross, L Geneslaw, C Fong, P Khosravi, J Gao, SP Shah
         conference: "American Association of Cancer Research, 2022 Annual Meeting"
-     
+#       - title: Immune and malignant phenotypes of ovarian cancer are determined by distinct mutational processes
+#         link: "#"
+#         authors: I Vázquez-García et al.
+#         conference: in revision
+#       - title: Spatial metabolic patterns of thoracic nodal disease associate with oligometastatic state in non-small cell lung cancer
+#         link: "#"
+#         authors: KM Boehm et al.
+#         conference: submitted
+      - title: Characterization of recurrences following second breast-conserving surgery with intraoperative radiotherapy
+        link: "https://link.springer.com/article/10.1245/s10434-019-07908-5"
+        authors: KM Boehm, J Chen, S Trichter, H Abdallah, R Zhuo, EJ Nowak, J Ng, AJ Swistel
+        conference: "Annals of Surgical Oncology, 2020"
+publications:
+    title: Selected Works
+    intro: > 
+      Each work generally falls into one of three categories: multimodal machine learning for clinical oncology, clinical analyses, and quantitative biological applications. A full list of resultant publications is available via [Google Scholar](https://scholar.google.com/citations?user=3t7ftQwAAAAJ).
+    papers:
+      - title: Harnessing multimodal data integration to advance precision oncology
+        link: "https://www.nature.com/articles/s41568-021-00408-3"
+        authors: KM Boehm, P Khosravi, R Vanguri, J Gao, SP Shah
+        conference: "Nature Reviews Cancer, 2022"
+
 #skills:
 #    title: Skills &amp; Proficiency
 #
