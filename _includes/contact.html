@@ -25,6 +25,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.scholar %}
+    <li class="scholar"><i class="fa-brand fa-google"></i>
+      <a href="https://scholar.google.com/citations?user=3t7ftQwAAAAJ&hl=en" target="_blank">{{ sidebar.scholar }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.telegram %}
     <li class="telegram"><i class="fab fa-telegram"></i>
       <a href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
