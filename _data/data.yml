@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: boehmk [at] mskcc [dot] org
     phone:
-    timezone: America/New York Timezone
+    timezone:
     citizenship:
     website: 
     linkedin: kevinmboehm
@@ -25,7 +25,7 @@ sidebar:
     bitbucket:
     twitter: '@kevinmboehm'
     scholar: 3t7ftQwAAAAJ
-    orcid: 0000-0003-2426-5436
+    orcid: #0000-0003-2426-5436
     stack-overflow:
     codewars:
     goodreads: 
