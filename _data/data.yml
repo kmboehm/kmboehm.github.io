@@ -51,14 +51,11 @@ sidebar:
       - item: Cycling
         link:
 
-      - item: Jogging
+      - item: Techno
         link:
 
       - item: Gaming
         link:
-
-      - item: Photography
-        link: 
 
       - item: Fantasy novels
         link:
@@ -66,18 +63,18 @@ sidebar:
 career-profile:
     title: Bio 
     summary: |
-      Kevin Boehm is a resident physician at Memorial Sloan Kettering Cancer Center, where he is completing the [Transitional Year Internship](https://www.mskcc.org/hcp-education-training/residencies/medicine-transitional-year-internship) followed by the [Radiation Oncology Residency](https://www.mskcc.org/departments/radiation-oncology/residency/residents-fellows).
+      Kevin Boehm is a postdoc and resident at Memorial Sloan Kettering Cancer Center, where he is completing the [Transitional Year Internship](https://www.mskcc.org/hcp-education-training/residencies/medicine-transitional-year-internship) followed by the [Radiation Oncology Residency](https://www.mskcc.org/departments/radiation-oncology/residency/residents-fellows). His primary research mentor is [Niki Schultz](https://componcmsk.org/personnel/nikolaus-schultz/) in Computational Oncology.
 
-      Recently, he received his MD and PhD from the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), where he completed his dissertation research in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via the [MSK-MIND](https://componcmsk.org/msk-mind/) Programmatic Initiative.
+      He received his MD and PhD from the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), where he completed his dissertation research in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via the [MSK-MIND](https://componcmsk.org/msk-mind/) Programmatic Initiative.
 
       His goal is to advance our understanding and management of cancer by using machine learning to harness data generated during clinical care. 
 experiences:
     - role: Resident Physician (Radiation Oncology)
-      time: 2023 - 2027
+      time: 2022 - 2027
       company: Memorial Sloan Kettering Cancer Center
       details: |
-    - role: Resident Physician (Transitional Year)
-      time: 2022 - 2023
+    - role: Postdoctoral Researcher (Computational Oncology)
+      time: 2022 - 2027
       company: Memorial Sloan Kettering Cancer Center
       details: |
 education:
