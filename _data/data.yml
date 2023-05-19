@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kevin Boehm
-    tagline: Resident physician working on machine learning for oncology 
+    tagline: Oncology resident working on AI for cancer
     avatar: profile.png 
 
     # Sidebar links
@@ -48,7 +48,7 @@ sidebar:
       - item: Weightlifting
         link:
 
-      - item: Cycling
+      - item: Tea
         link:
 
       - item: Techno
@@ -67,7 +67,7 @@ career-profile:
 
       He received his MD and PhD from the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), where he completed his dissertation research in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via the [MSK-MIND](https://componcmsk.org/msk-mind/) Programmatic Initiative.
 
-      His goal is to advance our understanding and management of cancer by using machine learning to harness data generated during clinical care. 
+      His goal is to advance our understanding and management of cancer by using machine learning to [harness data generated during clinical care](https://www.nature.com/articles/s41568-021-00408-3). 
 experiences:
     - role: Resident Physician (Radiation Oncology)
       time: 2022 - 2027
