@@ -66,20 +66,22 @@ sidebar:
 career-profile:
     title: Bio 
     summary: |
-      I am a [postdoc](https://www.mskcc.org/research-areas/labs/members/kevin-boehm) and [resident](https://www.mskcc.org/departments/radiation-oncology/residency/residents-fellows) at Memorial Sloan Kettering Cancer Center, where I am completing the Radiation Oncology Residency. My primary research mentor is [Nikolaus Schultz](https://componcmsk.org/personnel/nikolaus-schultz/) in Computational Oncology. I am also the scientific lead for the Pathology Data Mining team as part of the Cancer Data Science Initiative.
+      I am a [postdoc](https://www.mskcc.org/research-areas/labs/members/kevin-boehm) and [resident](https://www.mskcc.org/departments/radiation-oncology/residency/residents-fellows) at Memorial Sloan Kettering Cancer Center, where I am completing the Radiation Oncology Residency and conducting research in Computational Oncology with [Nikolaus Schultz](https://componcmsk.org/personnel/nikolaus-schultz/), [Francisco Sanchez-Vega](https://componcmsk.org/personnel/francisco-sanchez-vega/), and [Sohrab Shah](https://componcmsk.org/personnel/sohrab-shah/). I am also the scientific lead for the Pathology Data Mining team as part of the Cancer Data Science Initiative.
 
       I received my MD and PhD from the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), where I completed my dissertation research in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via the [MSK-MIND](https://componcmsk.org/msk-mind/) Programmatic Initiative.
 
-      My goal is broadly to advance our understanding and management of cancer by using machine learning to [harness data generated during clinical care](https://www.nature.com/articles/s41568-021-00408-3).  I am especially invested in digital pathology and multimodal ML efforts using real-world data to identify biologic state and inform clinical practice.
+      My goal is broadly to advance our understanding and management of cancer by using machine learning to [harness data generated during clinical care](https://www.nature.com/articles/s41568-021-00408-3).  I am especially invested in digital pathology and multimodal ML efforts using real-world data from clinical oncology to identify biologic state and inform clinical practice.
 experiences:
     - role: Resident Physician (Radiation Oncology)
-      time: 2022 - 2027
+      time: 2023 - 2027
       company: Memorial Sloan Kettering Cancer Center
       details: |
     - role: Postdoctoral Researcher (Computational Oncology)
-      time: 2022 - 2027
+      time: 2023 - 2027
       company: Memorial Sloan Kettering Cancer Center
       details: |
+    - role: Intern ([Transitional Year Internship](https://www.mskcc.org/hcp-education-training/residencies/medicine-transitional-year-residency))
+      time: 2022 - 2023
 education:
     - degree: MD
       university: Cornell University
