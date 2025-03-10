@@ -80,8 +80,10 @@ experiences:
       time: 2023 - 2027
       company: Memorial Sloan Kettering Cancer Center
       details: |
-    - role: Intern ([Transitional Year Internship](https://www.mskcc.org/hcp-education-training/residencies/medicine-transitional-year-residency))
+    - role: Intern (Transitional Year Residency)
       time: 2022 - 2023
+      company: Memorial Sloan Kettering Cancer Center
+      details: |
 education:
     - degree: MD
       university: Cornell University
