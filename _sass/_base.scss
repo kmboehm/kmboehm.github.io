@@ -134,6 +134,45 @@ p {
       }
     }
   }
+
+  .contact-icons {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+    
+    .contact-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.1);
+      color: rgba(255, 255, 255, 0.8);
+      text-decoration: none;
+      transition: all 0.3s ease;
+      font-size: 14px;
+      
+      &:hover {
+        background: rgba(255, 255, 255, 0.2);
+        color: #fff;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      }
+      
+      &.citizenship-flag {
+        background: transparent;
+        font-size: 20px;
+        
+        &:hover {
+          background: transparent;
+          transform: scale(1.1);
+        }
+      }
+    }
+  }
   .container-block {
     padding: 35px 30px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
