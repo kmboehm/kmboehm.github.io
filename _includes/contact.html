@@ -13,12 +13,6 @@
     </li>
     {% endif %}
 
-    {% if sidebar.citizenship %}
-    <li class="phone"><i class="fas fa-passport"></i>
-      <a href="">{{ sidebar.citizenship }}</a>
-    </li>
-    {% endif %}
-
     {% if sidebar.timezone %}
     <li class="timezone"><i class="fas fa-clock"></i>
       <a href="">{{ sidebar.timezone }}</a>
@@ -80,8 +74,14 @@
     {% endif %}
 
     {% if sidebar.twitter %}
-    <li class="twitter"><i class="fab fa-twitter"></i>
-      <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+    <li class="twitter"><span style="font-family: serif; font-weight: bold; font-size: 16px; display: inline-block; width: 18px; text-align: center;">𝕏</span>
+      <a href="https://x.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.citizenship %}
+    <li class="citizenship"><i class="fas fa-passport"></i>
+      <a href="">{{ sidebar.citizenship }}</a>
     </li>
     {% endif %}
 

@@ -12,10 +12,10 @@ sidebar:
     avatar: headshot.jpg 
 
     # Sidebar links
-    email: boehmkevinm [at] gmail [dot] com
+    email: boehmkevinm [at] gmail [•] com
     phone:
     timezone:
-    citizenship: USA
+    citizenship: 🇺🇸
     website: 
     linkedin: kevinmboehm
     xing: 
@@ -48,7 +48,7 @@ sidebar:
       - item: Weightlifting
         link:
 
-      - item: Green Tea
+      - item: Green tea
         link:
 
       - item: Techno
@@ -70,28 +70,28 @@ career-profile:
 
       I received my MD and PhD from the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), where I completed my dissertation research in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via the [MSK-MIND](https://componcmsk.org/msk-mind/) Programmatic Initiative.
 
-      My goal is broadly to advance our understanding and management of cancer by using machine learning to [harness data generated during clinical care](https://www.nature.com/articles/s41568-021-00408-3).  I am especially invested in digital pathology and multimodal ML efforts using real-world data from clinical oncology to identify biologic state and inform clinical practice.
+      My goal is broadly to advance our understanding and management of cancer by using machine learning to [harness data generated during clinical care](https://www.nature.com/articles/s41568-021-00408-3).  I am especially interested in digital pathology and multimodal machine learning using real-world oncology data to identify biologic state and inform clinical practice.
 experiences:
-    - role: Resident Physician (Radiation Oncology)
+    - role: Postdoctoral Researcher, Computational Oncology
       time: 2023 - 2027
-      company: Memorial Sloan Kettering Cancer Center
+      company: Memorial Sloan Kettering
       details: |
-    - role: Postdoctoral Researcher (Computational Oncology)
+    - role: Resident Physician, Radiation Oncology
       time: 2023 - 2027
-      company: Memorial Sloan Kettering Cancer Center
+      company: Memorial Sloan Kettering
       details: |
-    - role: Intern (Transitional Year Residency)
+    - role: Intern
       time: 2022 - 2023
-      company: Memorial Sloan Kettering Cancer Center
+      company: Memorial Sloan Kettering
       details: |
 education:
+    - degree: PhD, Computational Oncology
+      university: Memorial Sloan Kettering
+      time: 2021
+      details: |
     - degree: MD
       university: Cornell University
       time: 2022
-      details: |
-    - degree: PhD, Computational Oncology
-      university: Memorial Sloan Kettering Cancer Center
-      time: 2021
       details: |
     - degree: BS, Biomedical Engineering
       university: Yale University

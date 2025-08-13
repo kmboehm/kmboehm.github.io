@@ -1,7 +1,12 @@
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   body {
-    padding: 0;
+    padding: 15px;
+  }
+
+  .wrapper {
+    display: block;
+    border-radius: 8px;
   }
 
   .sidebar-wrapper {
@@ -9,22 +14,21 @@
     width: inherit;
   }
 
-  .wrapper {
-    display: block;
-  }
-
   .main-wrapper {
-    padding: 30px;
+    padding: 40px 30px;
   }
 
   .main-wrapper .time {
     position: static;
     display: block;
     margin-top: 5px;
+    margin-left: 0;
   }
 
   .main-wrapper .upper-row {
-    margin-bottom: 0;
+    margin-bottom: 8px;
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
 /* Small devices (tablets, 768px and up) */
@@ -36,16 +40,17 @@
   .skillset .level-title {
     display: inline-block;
     float: left;
-    width: 30%;
+    width: 35%;
     margin-bottom: 0;
+    padding-right: 15px;
   }
 
   .skillset .level-bar {
     display: inline-block;
-    width: 70%;
+    width: 65%;
     float: left;
     position: relative;
-    top: 1px;
+    top: 4px;
   }
 }
 
