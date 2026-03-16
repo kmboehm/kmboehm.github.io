@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Kevin Boehm
-    tagline:
-    avatar: headshot.jpg 
+    tagline: Physician-scientist. Builder.
+    avatar: headshot.jpg
 
     # Sidebar links
     email: boehmkevinm [at] gmail [•] com
@@ -24,6 +24,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@kevinmboehm'
+    instagram: boehm.builds
     scholar: 3t7ftQwAAAAJ
     orcid: 0000-0003-2426-5436
     stack-overflow:
@@ -69,24 +70,23 @@ sidebar:
 career-profile:
     title: Bio 
     summary: |
-      I am a [postdoc](https://www.mskcc.org/research-areas/labs/members/kevin-boehm) and [resident](https://www.mskcc.org/departments/radiation-oncology/residency/residents-fellows) at Memorial Sloan Kettering Cancer Center, where I am completing the Radiation Oncology Residency and conducting research in Computational Oncology with [Nikolaus Schultz](https://componcmsk.org/personnel/nikolaus-schultz/), [Francisco Sanchez-Vega](https://componcmsk.org/personnel/francisco-sanchez-vega/), and [Sohrab Shah](https://componcmsk.org/personnel/sohrab-shah/). I am also the scientific lead for the Pathology Data Mining team as part of the Cancer Data Science Initiative.
+      I'm a physician-scientist at [Memorial Sloan Kettering](https://www.mskcc.org/research-areas/labs/members/kevin-boehm), where I split my time between treating patients as a Radiation Oncology resident in the [Holman Pathway](https://www.mskcc.org/departments/radiation-oncology/residency/residents-fellows) and building computational tools to make cancer data more useful. As a postdoctoral researcher in [Computational Oncology](https://componcmsk.org/), I work with [Nikolaus Schultz](https://componcmsk.org/personnel/nikolaus-schultz/), [Francisco Sanchez-Vega](https://componcmsk.org/personnel/francisco-sanchez-vega/), and [Sohrab Shah](https://componcmsk.org/personnel/sohrab-shah/) and lead the Pathology Data Mining team within the Cancer Data Science Initiative.
 
-      I received my MD and PhD from the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), where I completed my dissertation research in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via the [MSK-MIND](https://componcmsk.org/msk-mind/) Programmatic Initiative.
+      I got my MD and PhD through the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), doing my dissertation in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via [MSK-MIND](https://componcmsk.org/msk-mind/). Before that, I studied Biomedical Engineering at Yale.
 
-      My goal is broadly to advance our understanding and management of cancer by using machine learning to [harness data generated during clinical care](https://www.nature.com/articles/s41568-021-00408-3).  I am especially interested in digital pathology and multimodal machine learning using real-world oncology data to identify biologic state and inform clinical practice.
-experiences:
-    - role: Postdoctoral Researcher, Computational Oncology
-      time: 2025 - 2027
-      company: Memorial Sloan Kettering
-      details: |
-    - role: Resident Physician, Radiation Oncology
-      time: 2023 - 2027
-      company: Memorial Sloan Kettering
-      details: |
-    - role: Intern
-      time: 2022 - 2023
-      company: Memorial Sloan Kettering
-      details: |
+      The through-line in my work is using machine learning to [pull clinically actionable insights out of data that's already being generated during routine cancer care](https://www.nature.com/articles/s41568-021-00408-3) — pathology slides, sequencing panels, clinical records. I'm especially drawn to digital pathology and multimodal ML, where there's a massive opportunity to connect what we see under the microscope with what's happening at the molecular level, and how they impact response to specific therapies.
+
+      I'm a PI on grants from the [Fund for Innovation in Cancer Informatics](https://www.the-ici-fund.org/recipients/details/inferring-actionable-biomarkers-from-routine-hematoxylin-and-eosin-stained-tissue) and [aiTDIF](https://www.mskcc.org/commercialization/programs-accelerators/technology-development-fund), a member of the MSK Entrepreneurship Initiative, and have given talks at [AACR: Special Conference on AI and ML](https://www.aacr.org/blog/2025/08/18/eye-on-ai-applying-artificial-intelligence-to-drive-cancer-research-part-2/) and [ESMO AI](https://oncologypro.esmo.org/video-series/ai-driven-histopathology-modelling-of-tumour-subtypes-and-biomarkers).
+
+current-focus:
+    title: What I'm working on
+    items:
+      - title: Multimodal integration of pathology and genomics
+        description: Building models that integrate clinical sequencing with pathology whole-slide images to identify tumor features predictive of treatment response.
+      - title: Translating research to practice
+        description: Moving computational oncology tools from proof-of-concept toward clinical deployment
+      - title: Digital pathology at scale
+        description: Inferring actionable biomarkers directly from routine H&E-stained tissue
 education:
     - degree: PhD, Computational Oncology
       university: Memorial Sloan Kettering

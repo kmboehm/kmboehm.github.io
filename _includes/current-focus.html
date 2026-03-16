@@ -1,0 +1,23 @@
+{% assign focus = site.data.data.current-focus %}
+{% if focus %}
+<section class="section focus-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-rocket fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ focus.title }}
+  </h2>
+
+  {% for item in focus.items %}
+  <div class="item">
+    <h3 class="focus-title">{{ item.title }}</h3>
+    <div class="details">
+      <p>{{ item.description }}</p>
+    </div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
