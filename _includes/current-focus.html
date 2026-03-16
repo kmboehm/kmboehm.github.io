@@ -12,10 +12,10 @@
 
   {% for item in focus.items %}
   <div class="item">
-    <h3 class="degree">{{ item.title }}</h3>
-    <div class="details">
-      <p>{{ item.description }}</p>
+    <div class="upper-row">
+      <h3 class="degree">{{ item.title }}</h3>
     </div>
+    <div class="university">{{ item.description }}</div>
   </div><!--//item-->
   {% endfor %}
 
