@@ -46,13 +46,16 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Old-school bodybuilding gyms
+      - item: Metal sculpture
+        link:
+
+      - item: Techno
         link:
 
       - item: Green tea
         link:
 
-      - item: Techno
+      - item: Old-school bodybuilding gyms
         link:
 
       - item: Gaming
@@ -62,9 +65,6 @@ sidebar:
         link:
 
       - item: Reading
-        link:
-
-      - item: Metal sculpture
         link:
 
 career-profile:
