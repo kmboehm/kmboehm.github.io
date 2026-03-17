@@ -76,7 +76,7 @@ career-profile:
 
       The through-line in my work is using machine learning to [pull clinically actionable insights out of data that's already being generated during routine cancer care](https://www.nature.com/articles/s41568-021-00408-3) — pathology slides, sequencing panels, clinical records. I'm especially drawn to digital pathology and multimodal ML, where there's a massive opportunity to connect what we see under the microscope with what's happening at the molecular level, and how they impact response to specific therapies. Some of my [prior work](https://www.nature.com/articles/s41467-025-57283-x) applied this idea to breast cancer: we built ML to identify patients who stand to benefit from chemotherapy after surgery.
 
-      I'm a PI on grants from the [Fund for Innovation in Cancer Informatics](https://www.the-ici-fund.org/recipients/details/inferring-actionable-biomarkers-from-routine-hematoxylin-and-eosin-stained-tissue) and [aiTDIF](https://www.mskcc.org/commercialization/programs-accelerators/technology-development-fund), a member of the MSK Entrepreneurship Initiative, and have given talks at [AACR: Special Conference on AI and ML](https://www.aacr.org/blog/2025/08/18/eye-on-ai-applying-artificial-intelligence-to-drive-cancer-research-part-2/) and [ESMO AI](https://oncologypro.esmo.org/video-series/ai-driven-histopathology-modelling-of-tumour-subtypes-and-biomarkers).
+      I'm a PI on grants from the [Fund for Innovation in Cancer Informatics](https://www.the-ici-fund.org/recipients/details/inferring-actionable-biomarkers-from-routine-hematoxylin-and-eosin-stained-tissue) and [aiTDIF](https://www.mskcc.org/commercialization/programs-accelerators/technology-development-fund), a member of the MSK Entrepreneurship Initiative, and have given talks at [AACR: Special Conference on AI and ML](https://www.aacr.org/blog/2025/08/18/eye-on-ai-applying-artificial-intelligence-to-drive-cancer-research-part-2/) and [ESMO AI](https://oncologypro.esmo.org/video-series/ai-driven-histopathology-modelling-of-tumour-subtypes-and-biomarkers). I was recently awarded the AACR-Margaret Foti Foundation Scholar-in-Training Award for our most recent [work in progress](https://www.biorxiv.org/content/10.1101/2025.08.14.670351v1).
 
 current-focus:
     title: What I'm working on
@@ -87,16 +87,16 @@ current-focus:
         description: Moving computational oncology tools from proof-of-concept toward clinical deployment
       - title: Digital pathology at scale
         description: Inferring actionable biomarkers directly from routine H&E-stained tissue
-education:
-    - degree: PhD, Computational Oncology
-      university: Memorial Sloan Kettering
-      time: 2021
-      details: |
-    - degree: MD
-      university: Cornell University
-      time: 2022
-      details: |
-    - degree: BS, Biomedical Engineering
-      university: Yale University
-      time: 2015
-      details: |
+# education:
+#     - degree: PhD, Computational Oncology
+#       university: Memorial Sloan Kettering
+#       time: 2021
+#       details: |
+#     - degree: MD
+#       university: Cornell University
+#       time: 2022
+#       details: |
+#     - degree: BS, Biomedical Engineering
+#       university: Yale University
+#       time: 2015
+#       details: |
