@@ -1,63 +1,62 @@
-/* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
-  body {
-    padding: 15px;
+/* Mobile (less than 640px) */
+@media (max-width: 639px) {
+  .site-container {
+    padding: 20px 16px;
   }
 
-  .wrapper {
-    display: block;
-    border-radius: 8px;
+  .hero {
+    padding: 24px 0 20px;
   }
 
-  .sidebar-wrapper {
-    position: static;
-    width: inherit;
-  }
-
-  .main-wrapper {
-    padding: 40px 30px;
-  }
-
-  .main-wrapper .time {
-    position: static;
-    display: block;
-    margin-top: 5px;
-    margin-left: 0;
-  }
-
-  .main-wrapper .upper-row {
-    margin-bottom: 8px;
+  .hero-inner {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
+    text-align: center;
+    gap: 16px;
+  }
+
+  .hero-avatar {
+    width: 100px;
+    height: 100px;
+  }
+
+  .hero-name {
+    font-size: 24px;
+  }
+
+  .social-icons {
+    justify-content: center;
+  }
+
+  .section {
+    padding: 24px 20px;
+    margin-bottom: 16px;
+  }
+
+  .section-title {
+    font-size: 16px;
+  }
+
+  .focus-card {
+    padding: 14px 16px;
   }
 }
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-}
 
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
+/* Tablet and up (640px+) */
+@media (min-width: 640px) {
+  .skillset .skill-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
   .skillset .level-title {
-    display: inline-block;
-    float: left;
     width: 35%;
+    flex-shrink: 0;
     margin-bottom: 0;
-    padding-right: 15px;
   }
 
   .skillset .level-bar {
-    display: inline-block;
-    width: 65%;
-    float: left;
-    position: relative;
-    top: 4px;
+    flex: 1;
   }
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-}
-
-/* Ex-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1400px) {
 }

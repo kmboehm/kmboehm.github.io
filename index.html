@@ -2,17 +2,16 @@
 layout: default
 ---
 
+{% include projects.html %}
 
 {% include career-profile.html %}
 
-{% include current-focus.html %}
+{% include writing.html %}
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
+{% include previous-work.html %}
 
-{% include projects.html %}
+{% include affiliations.html %}
 
-{% include publications.html %}
+{% include interests.html %}
 
-{% include skills.html %}
+{% include language.html %}

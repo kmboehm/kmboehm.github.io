@@ -1,0 +1,36 @@
+{% assign affiliations = site.data.data.affiliations %}
+{% if affiliations %}
+<section class="section">
+  <h2 class="section-title">{{ affiliations.title }}</h2>
+
+  {% if affiliations.current %}
+  <div class="subsection-label">Current</div>
+  <div class="pill-list">
+    {% for item in affiliations.current %}
+    <span class="pill">
+      {% if item.link %}
+        <a href="{{ item.link }}" target="_blank">{{ item.name }}</a>
+      {% else %}
+        {{ item.name }}
+      {% endif %}
+    </span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if affiliations.previous %}
+  <div class="subsection-label">Previous</div>
+  <div class="pill-list">
+    {% for item in affiliations.previous %}
+    <span class="pill">
+      {% if item.link %}
+        <a href="{{ item.link }}" target="_blank">{{ item.name }}</a>
+      {% else %}
+        {{ item.name }}
+      {% endif %}
+    </span>
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>
+{% endif %}

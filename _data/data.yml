@@ -8,19 +8,20 @@ sidebar:
 
     # Profile information
     name: Kevin Boehm
-    tagline:
+    tagline: Building AI for cancer
     avatar: headshot.jpg
+    short_bio: "Postdoc + resident at Sloan Kettering. I build AI models that find clinically useful patterns in pathology slides, tumor sequencing, and clinical records."
 
     # Sidebar links
     email: boehmkevinm [at] gmail [•] com
     phone:
     timezone:
     citizenship: 🇺🇸
-    website: 
+    website:
     linkedin: kevinmboehm
-    xing: 
+    xing:
     github: kmboehm
-    telegram: 
+    telegram:
     gitlab:
     bitbucket:
     twitter: '@kevinmboehm'
@@ -29,8 +30,8 @@ sidebar:
     orcid: 0000-0003-2426-5436
     stack-overflow:
     codewars:
-    goodreads: 
-    pdf: 
+    goodreads:
+    pdf:
 
     languages:
       - idiom: English
@@ -41,6 +42,7 @@ sidebar:
 
       - idiom: Japanese
         level: Intermediate
+        link: https://pii.princeton.edu/
 
       - idiom: Swedish
         level: Beginner
@@ -48,6 +50,7 @@ sidebar:
     interests:
       - item: Metal sculpture
         link:
+        detail: Brooklyn Makerspace
 
       - item: Techno
         link: https://soundcloud.com/user-10264579/sets
@@ -56,7 +59,7 @@ sidebar:
         link:
 
       - item: Old-school bodybuilding gyms
-        link: 
+        link: https://www.hevy.com/user/boehmbuilds
 
       - item: Gaming
         link:
@@ -64,29 +67,69 @@ sidebar:
       - item: Hiking
         link:
 
-      - item: Reading
+      - item: Fantasy novels
         link:
 
 career-profile:
-    title: Bio 
+    title: About me
     summary: |
-      I'm a postdoc and resident at [Memorial Sloan Kettering](https://www.mskcc.org/research-areas/labs/members/kevin-boehm), where I split my time between treating patients as a Radiation Oncology resident in the [Holman Pathway](https://www.mskcc.org/departments/radiation-oncology/residency/residents-fellows) and building computational tools to make clinical cancer data more informative. As a postdoctoral researcher in [Computational Oncology](https://componcmsk.org/), I work with [Nikolaus Schultz](https://componcmsk.org/personnel/nikolaus-schultz/), [Francisco Sanchez-Vega](https://componcmsk.org/personnel/francisco-sanchez-vega/), and [Sohrab Shah](https://componcmsk.org/personnel/sohrab-shah/) and lead the Pathology Data Mining team within the Cancer Data Science Initiative.
+      I'm a radiation oncology resident at [Memorial Sloan Kettering](https://www.mskcc.org/research-areas/labs/members/kevin-boehm) and a postdoc in [Computational Oncology](https://componcmsk.org/), where I work with [Nikolaus Schultz](https://componcmsk.org/personnel/nikolaus-schultz/), [Francisco Sanchez-Vega](https://componcmsk.org/personnel/francisco-sanchez-vega/), and [Sohrab Shah](https://componcmsk.org/personnel/sohrab-shah/) and lead the Pathology Data Mining team.
 
-      I got my PhD and MD through the [Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program](https://mdphd.weill.cornell.edu/), doing my dissertation in [Computational Oncology](https://componcmsk.org/) with [Sohrab Shah](https://www.mskcc.org/research-areas/labs/sohrab-shah) via [MSK-MIND](https://componcmsk.org/msk-mind/). Before that, I studied Biomedical Engineering at Yale.
+      There's a ton of data generated during routine cancer care — pathology slides, sequencing panels, clinical records. I build AI to find useful patterns in these data. I'm especially interested in multimodal modeling, where there's a massive opportunity to connect what we see under the microscope with what's happening at the molecular level and how, taken together, that affects response to therapy.
 
-      The through-line in my work is using machine learning to [pull clinically actionable insights out of data that's already being generated during routine cancer care](https://www.nature.com/articles/s41568-021-00408-3) — pathology slides, sequencing panels, clinical records. I'm especially drawn to digital pathology and multimodal ML, where there's a massive opportunity to connect what we see under the microscope with what's happening at the molecular level, and how they impact response to specific therapies. Some of my [prior work](https://www.nature.com/articles/s41467-025-57283-x) applied this idea to breast cancer: we built ML to identify patients who stand to benefit from chemotherapy after surgery.
+projects:
+    title: Things I'm building
+    assignments:
+      - title: Mosaic
+        link: "https://www.biorxiv.org/content/10.1101/2025.08.14.670351v1"
+        tagline: 'Inferring multi-scale molecular features from digital pathology slides. Funded by the <a href="https://www.the-ici-fund.org/recipients/details/inferring-actionable-biomarkers-from-routine-hematoxylin-and-eosin-stained-tissue" target="_blank">ICI</a> and <a href="https://www.mskcc.org/commercialization/programs-accelerators/technology-development-fund" target="_blank">aiTDIF</a>. Featured at <a href="https://www.aacr.org/blog/2025/08/18/eye-on-ai-applying-artificial-intelligence-to-drive-cancer-research-part-2/" target="_blank">AACR AI</a> and <a href="https://oncologypro.esmo.org/video-series/ai-driven-histopathology-modelling-of-tumour-subtypes-and-biomarkers" target="_blank">ESMO AI</a>. Check out the code <a href="https://github.com/kmboehm/paladin" target="_blank">here</a>.'
+      - title: Orpheus
+        link: "https://www.nature.com/articles/s41467-025-57283-x"
+        tagline: 'Multimodal AI using clinical text and pathology slides to identify high-risk breast cancer and generate synthetic breast cancer images conditioned on risk. The code is <a href="https://github.com/kmboehm/orpheus" target="_blank">here</a>.'
+      - title: Mussel
+        link: "https://github.com/pathology-data-mining/Mussel"
+        tagline: "Highly scalable preprocessing for digital pathology, built with Raymond Lim."
 
-      I'm a PI on grants from the [Fund for Innovation in Cancer Informatics](https://www.the-ici-fund.org/recipients/details/inferring-actionable-biomarkers-from-routine-hematoxylin-and-eosin-stained-tissue) and [aiTDIF](https://www.mskcc.org/commercialization/programs-accelerators/technology-development-fund), a member of the MSK Entrepreneurship Initiative, and have given talks at [AACR: Special Conference on AI and ML](https://www.aacr.org/blog/2025/08/18/eye-on-ai-applying-artificial-intelligence-to-drive-cancer-research-part-2/) and [ESMO AI](https://oncologypro.esmo.org/video-series/ai-driven-histopathology-modelling-of-tumour-subtypes-and-biomarkers). I was recently awarded the AACR-Margaret Foti Foundation Scholar-in-Training Award for our most recent [work in progress](https://www.biorxiv.org/content/10.1101/2025.08.14.670351v1).
-
-current-focus:
-    title: What I'm working on
+writing:
+    title: Perspectives
     items:
-      - title: Multimodal integration of pathology and genomics
-        description: Building models that integrate clinical sequencing with pathology whole-slide images to identify tumor features predictive of treatment response.
-      - title: Translating research to practice
-        description: Moving computational oncology tools from proof-of-concept toward clinical deployment
-      - title: Digital pathology at scale
-        description: Inferring actionable biomarkers directly from routine H&E-stained tissue
+      - title: "Harnessing multimodal data integration to advance precision oncology"
+        link: "https://www.nature.com/articles/s41568-021-00408-3"
+        tagline: "Roadmap to develop multimodal AI for oncology."
+      - title: "Simplifying clinical use of TCGA molecular subtypes through machine learning models"
+        link: "https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00484-7"
+        tagline: "Consistent tumor subtype identification with parsimonious genomic data."
+
+previous-work:
+    title: Previous work
+    items:
+      - title: "Late-fusion multimodal AI to risk stratify ovarian cancer"
+        link: "https://www.nature.com/articles/s43018-022-00388-9"
+        tagline: "Combining histopathology, radiology, and clinicogenomics for ovarian cancer prognosis."
+      - title: "Predicting peptide presentation by major histocompatibility complex class I"
+        link: "https://link.springer.com/article/10.1186/s12859-018-2561-z"
+        tagline: "Improved deep learning for MHC class I peptide presentation."
+      - title: Resonance
+        link: "https://campuspress.yale.edu/yaleresonance/about/"
+        tagline: "Annual science conference connecting Yale researchers with New Haven high schoolers."
+
+affiliations:
+    title: Affiliations
+    current:
+      - name: MSK Radiation Oncology Residency
+        link: https://www.mskcc.org/departments/radiation-oncology/residency
+      - name: Halvorsen Center for Computational Oncology
+        link: https://componcmsk.org/
+      - name: MSK Entrepreneurship Initiative
+    previous:
+      - name: MSK Transitional Year
+        link: https://www.mskcc.org/hcp-education-training/residencies/medicine-transitional-year-residency
+      - name: Tri-Institutional Computational Biology PhD Program
+        link: https://compbio.triiprograms.org/
+      - name: Tri-Institutional MD-PhD Program
+        link: https://mdphd.weill.cornell.edu/
+      - name: Yale Biomedical Engineering
+      - name: TJHSST
 # education:
 #     - degree: PhD, Computational Oncology
 #       university: Memorial Sloan Kettering

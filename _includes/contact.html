@@ -1,32 +1,30 @@
-<div class="contact-container container-block">
-  <div class="contact-icons">
-    {% if sidebar.email %}
-    <a href="mailto:{{ sidebar.email }}" class="contact-icon"><i class="fas fa-envelope"></i></a>
-    {% endif %}
+{% assign sidebar = site.data.data.sidebar %}
+<div class="social-icons">
+  {% if sidebar.email %}
+  <a href="mailto:{{ sidebar.email }}" class="social-icon" title="Email"><i class="fas fa-envelope"></i></a>
+  {% endif %}
 
-    {% if sidebar.orcid%}
-    <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank" class="contact-icon"><i class="fab fa-orcid"></i></a>
-    {% endif %}
+  {% if sidebar.orcid %}
+  <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank" class="social-icon" title="ORCID"><i class="fab fa-orcid"></i></a>
+  {% endif %}
 
-    {% if sidebar.scholar%}
-    <a href="https://scholar.google.com/citations?user={{ sidebar.scholar }}" target="_blank" class="contact-icon"><i class="fab fa-google"></i></a>
-    {% endif %}
+  {% if sidebar.scholar %}
+  <a href="https://scholar.google.com/citations?user={{ sidebar.scholar }}" target="_blank" class="social-icon" title="Google Scholar"><i class="fab fa-google"></i></a>
+  {% endif %}
 
-    {% if sidebar.linkedin %}
-    <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank" class="contact-icon"><i class="fab fa-linkedin"></i></a>
-    {% endif %}
+  {% if sidebar.linkedin %}
+  <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank" class="social-icon" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+  {% endif %}
 
-    {% if sidebar.github %}
-    <a href="http://github.com/{{ sidebar.github }}" target="_blank" class="contact-icon"><i class="fab fa-github"></i></a>
-    {% endif %}
+  {% if sidebar.github %}
+  <a href="http://github.com/{{ sidebar.github }}" target="_blank" class="social-icon" title="GitHub"><i class="fab fa-github"></i></a>
+  {% endif %}
 
-    {% if sidebar.twitter %}
-    <a href="https://x.com/{{ sidebar.twitter }}" target="_blank" class="contact-icon"><span style="font-family: serif; font-weight: bold; font-size: 16px; display: inline-block; width: 18px; text-align: center;">𝕏</span></a>
-    {% endif %}
+  {% if sidebar.twitter %}
+  <a href="https://x.com/{{ sidebar.twitter }}" target="_blank" class="social-icon" title="X"><span class="x-icon">&#120143;</span></a>
+  {% endif %}
 
-    {% if sidebar.instagram %}
-    <a href="https://instagram.com/{{ sidebar.instagram }}" target="_blank" class="contact-icon"><i class="fab fa-instagram"></i></a>
-    {% endif %}
-
-  </div>
-</div><!--//contact-container-->
+  {% if sidebar.instagram %}
+  <a href="https://instagram.com/{{ sidebar.instagram }}" target="_blank" class="social-icon" title="Instagram"><i class="fab fa-instagram"></i></a>
+  {% endif %}
+</div>
