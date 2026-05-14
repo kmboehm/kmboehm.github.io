@@ -1,9 +1,5 @@
 {% assign sidebar = site.data.data.sidebar %}
 <div class="social-icons">
-  {% if sidebar.email %}
-  <a href="mailto:{{ sidebar.email }}" class="social-icon" title="Email"><i class="fas fa-envelope"></i></a>
-  {% endif %}
-
   {% if sidebar.orcid %}
   <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank" class="social-icon" title="ORCID"><i class="fab fa-orcid"></i></a>
   {% endif %}
