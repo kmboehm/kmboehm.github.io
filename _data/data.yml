@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kevin Boehm
-    tagline: Building AI for cancer
+    tagline: Building AI for oncology
     avatar: headshot.jpg
     short_bio: "Postdoc + resident at Sloan Kettering. I build AI models that find clinically useful patterns in pathology slides, tumor sequencing, and clinical records."
 
@@ -50,7 +50,6 @@ sidebar:
     interests:
       - item: Metal sculpture
         link:
-        detail: Brooklyn Makerspace
 
       - item: Techno
         link: https://soundcloud.com/user-10264579/sets
