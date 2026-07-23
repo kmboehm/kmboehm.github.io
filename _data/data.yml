@@ -10,7 +10,7 @@ sidebar:
     name: Kevin Boehm
     tagline:
     avatar: portrait.jpg
-    short_bio: "Postdoc + resident at Sloan Kettering. I build AI models that find clinically useful patterns in pathology slides, tumor sequencing, and clinical records."
+    short_bio: "Radiation oncology resident and computational oncology postdoc at Memorial Sloan Kettering. I build multimodal AI that turns routine cancer data into clinically useful predictions."
 
     # Sidebar links
     email: boehmkevinm [at] gmail [•] com
@@ -24,7 +24,7 @@ sidebar:
     telegram:
     gitlab:
     bitbucket:
-    twitter: '@kevinmboehm'
+    twitter: kevinmboehm
     instagram: boehm.builds
     scholar: 3t7ftQwAAAAJ
     orcid: 0000-0003-2426-5436
