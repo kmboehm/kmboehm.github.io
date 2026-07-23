@@ -72,7 +72,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I'm a radiation oncology resident at [Memorial Sloan Kettering](https://www.mskcc.org/research-areas/labs/members/kevin-boehm) and a postdoc in [Computational Oncology](https://componcmsk.org/), where I work with [Nikolaus Schultz](https://componcmsk.org/personnel/nikolaus-schultz/), [Francisco Sanchez-Vega](https://componcmsk.org/personnel/francisco-sanchez-vega/), and [Sohrab Shah](https://componcmsk.org/personnel/sohrab-shah/) and lead the Pathology Data Mining team.
+      I'm a radiation oncology resident at [Memorial Sloan Kettering](https://www.mskcc.org/research-areas/labs/members/kevin-boehm) and a postdoc in [Computational Oncology](https://componcmsk.org/), where I work with [Nikolaus Schultz](https://componcmsk.org/personnel/nikolaus-schultz/), [Francisco Sanchez-Vega](https://componcmsk.org/personnel/francisco-sanchez-vega/), and [Sohrab Shah](https://componcmsk.org/personnel/sohrab-shah/) and lead the Pathology Data Mining team. My research is supported by an NCI K99/R00 Pathway to Independence Award.
 
       There's a ton of data generated during routine cancer care — pathology slides, sequencing panels, clinical records. I build AI to find useful patterns in these data. I'm especially interested in multimodal modeling, where there's a massive opportunity to connect what we see under the microscope with what's happening at the molecular level and how, taken together, that affects response to therapy.
 
